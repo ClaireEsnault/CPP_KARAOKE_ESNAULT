@@ -1,7 +1,9 @@
 #include "Player.h"
+#include <string>
+//Implementation fonctions
 
-void Player::demarrerPartie(){
-    //Implementation fonction//
+void Player::choisirChanson(Player, Chanson[]){
+
 }
 
 void Player::moyenneScore(){
@@ -9,5 +11,5 @@ void Player::moyenneScore(){
 }
 
 void Player::scoreTotal(){
-    
+
 }

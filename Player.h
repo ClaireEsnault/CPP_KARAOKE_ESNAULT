@@ -1,6 +1,14 @@
+#include <string>
+//Declaration des variables
 class Player {
-//déclaration des variables//
-    string nomJoueur;
-    int score;
+    private:
+    std::string name;
 
+    public:
+    int scoreChanson0;
+    int scoreChanson1;
+    int scoreChanson2;
+    int scoreChanson3;
+    int scoreChanson4;
+    
 };
