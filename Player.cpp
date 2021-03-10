@@ -13,3 +13,7 @@ void Player::moyenneScore(){
 void Player::scoreTotal(){
 
 }
+
+void Player::ajouterScore(){
+    
+}
